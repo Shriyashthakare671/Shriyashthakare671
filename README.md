@@ -10,8 +10,9 @@
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-- Linkedin [https://www.linkedin.com/in/mr-shriyash-thakare-05695b1b2/](https://www.linkedin.com/in/mr-shriyash-thakare-05695b1b2/)
-- <img align="right" alt="coding" width="400px" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPRATAP-KUMAR&psig=AOvVaw2cPYP9g3x5l_UUkik53dOC&ust=1718826164225000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCDlMr05YYDFQAAAAAdAAAAABAd](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)" />
+- <img align="right" width="400px" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPRATAP-KUMAR&psig=AOvVaw2cPYP9g3x5l_UUkik53dOC&ust=1718826164225000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCDlMr05YYDFQAAAAAdAAAAABAd](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)">
+
+
 - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)   
 - ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)    ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)     ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
