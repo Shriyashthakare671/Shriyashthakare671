@@ -6,8 +6,7 @@
 - 🔭 I’m currently working on **Android Application And WebApplications.**
 
 - 🌱 I’m currently learning **React-Native And IOS Development.**
-
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shriyash Thakare)  
+  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
