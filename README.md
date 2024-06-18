@@ -10,7 +10,7 @@
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-- <img align="right" width="400px" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPRATAP-KUMAR&psig=AOvVaw2cPYP9g3x5l_UUkik53dOC&ust=1718826164225000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCDlMr05YYDFQAAAAAdAAAAABAd](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)](https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif)">
+- <img align="right" width="400px" src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif">
 
 
 - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)     ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)   
@@ -21,7 +21,7 @@
 
 
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)     ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)     ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-- 
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shriyashthakare671](https://github.com/Shriyashthakare671)
 
