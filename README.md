@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shriyashthakare671&label=Profile%20views&color=0e75b6&style=flat" alt="shriyashthakare671" /> </p>
 
-- https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
+- <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S">
 
 - 🔭 I’m currently working on **Android Application And WebApplications.**
 
